@@ -1,0 +1,16 @@
+form {
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	border: 2px;
+	margin: auto;
+	width: 80%;
+	background-color: #c89f6073;
+	padding: 20px;
+}
+
+body{
+	background-color: #697bc430;
+}
+div{
+	padding:5px;
+}
